@@ -31,6 +31,6 @@ Here is how you set it up:
     @reboot /usr/local/bin/cec_listener.sh
     
 
-leave same feedback.
+leave some feedback.
 
 m1d1
